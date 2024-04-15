@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-04-16T16:19:25.337072",
+    "startedAt": "2024-04-16T16:19:24.304087",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "./Pythonic RAG Assignment.ipynb",
+    "codePathLocal": "Pythonic RAG Assignment.ipynb",
+    "git": {
+        "remote": "git@github.com:AI-Maker-Space/AI-Engineering-Cohort-2.git",
+        "commit": "eebec7c7148dc3ccb54d1d6d7f9251d6b890e791"
+    },
+    "email": "naveen.pnd@gmail.com",
+    "root": "~/projects/learn/AI-Engineering-Cohort-2",
+    "host": "",
+    "username": "",
+    "executable": "~/opt/miniconda/envs/aim/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2200,
+        "min": 2200,
+        "max": 2200
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200,
+            "min": 2200,
+            "max": 2200
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.46913528442383,
+            "used": 8.53702163696289
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
